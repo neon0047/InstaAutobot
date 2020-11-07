@@ -3,8 +3,8 @@
     <img src="https://www.messengerpeople.com/wp-content/uploads/2018/08/erfolge-chatbots.png" width="500x" height="auto">
 </div>
 
-<h3 align="center"> This is python programme to automate instagram stuff!</h3>
-<h3 align="center"> This programme can automate and perform instagram tasks. It can show list of unfollowers, list of fans, cancels pending sent follow request, unfollows the people who don't follow you back.</h3>
+<h3 align="center"> This is python program to automate instagram stuff!</h3>
+<h3 align="center"> This program can automate and perform instagram tasks. It can show list of unfollowers, list of fans, cancels pending sent follow request, unfollows the people who don't follow you back.</h3>
 
 ### Clone project
  
