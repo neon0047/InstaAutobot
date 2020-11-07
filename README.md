@@ -4,7 +4,7 @@
 </div>
 
 <h3 align="center"> This is python programme to automate instagram stuff!</h3>
-<h3 align="center"> This programme can automate and perform instagram tasks. It can show list of unfollowers, list of fans, cancels pending sent follow request, unfollows the people who don't follow you back.t</h3>
+<h3 align="center"> This programme can automate and perform instagram tasks. It can show list of unfollowers, list of fans, cancels pending sent follow request, unfollows the people who don't follow you back.</h3>
 
 ### Clone project
  
